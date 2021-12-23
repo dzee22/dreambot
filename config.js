@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['6283108164709'] // Letakan nomor kamu disini
+global.owner = ['6282146176911'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -32,14 +32,14 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285336060095'
-global.author = 'DreamBot'
+global.packname = 'Va'
+global.author = 'R'
 
-global.botwm = 'Dream∆Bot'
+global.botwm = 'Var'
 
-global.wait = '_*tunggu..*_'
-global.wm = '® Dream∆Bot'
-global.eror = '_*Server Error*_'
+global.wait = '*tunggu..*'
+global.wm = '© Var'
+global.eror = '*Server Error*'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=night-star-logo&fontname=BlackChancery&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
